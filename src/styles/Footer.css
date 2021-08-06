@@ -1,0 +1,18 @@
+.jh-footer {
+	color: black;
+	padding: 32px;
+	border-top: solid 3px black;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+	align-items: center;
+	font-weight: 500;
+    background-color: rgb(83, 212, 83);
+}
+.jh-footer img {
+    width: 5rem;
+    
+}
+.jh-footer-elem {
+	margin-bottom: 10px;
+}
